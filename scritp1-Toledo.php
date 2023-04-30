@@ -1,7 +1,7 @@
 <?php
 /**
  * @author Laurent Toledo
- * @version 3.3.1
+ * @copyright
  * @access public
  */
 
